@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ent_nm">Enter Name</string>
+    <string name="ent_pwd">Enter Password</string>
+    <string name="rem_me">Remember me</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+</resources>
